@@ -1,0 +1,61 @@
+.album-cover{
+    width: 300px;
+    height: auto;
+}
+.product{
+    text-align: center;
+    margin: 2%;
+}
+.price-button{
+    margin: 0 auto;
+    width: 50%;
+}
+.price{
+    font-weight: bold;
+    vertical-align: auto;
+    float: left; 
+    font-size: 1.5rem; 
+}
+.title{
+    font-weight: 500;
+    font-size: 1.6rem;
+}
+.artist{
+    font-size: 1.1rem;
+}
+button{
+    float:right;
+}
+.header-link{
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+    text-decoration: none;
+}
+.album-cover-big{
+    margin: 2%;
+}
+.artist-title{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.product-info{
+    padding: 50px 0;
+    text-align: center;
+}
+.copyright{
+    font-weight: 300;
+    font-size: 0.8rem;
+}
+.stock{
+    color: rgb(98, 122, 74);
+    font-size: 1.1rem;
+}
+.no-stock{
+    color: rgb(122, 74, 74);
+    font-size: 1.1rem;
+}
+.track-length{
+    font-weight: 200;
+}
